@@ -36,7 +36,7 @@ Please report any errors or issues.
 
 ---
 
-## Password to unlock virus (if applicable)
+## Password to unlock virus
 
 `maydoisbest`  
 
